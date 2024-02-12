@@ -1,2 +1,6 @@
-# Pitch-Detector-on-MATLAB
-A program that coded in MATLAB programming environment that gets speech files from the user in .wav file format, estimates the pitch of a quasiperiodic or oscillating signal, and prints the values as an output for the users to see graphically.
+This project focuses on Pitch Detection and is implemented using MATLAB. It includes several related files:
+
+  - Four audio files designed for testing the code's functionality.
+  - A MATLAB script containing the project's code.
+  - A project specification report detailing the requirements and objectives.
+  - A final project report documenting the completed version of the project.
